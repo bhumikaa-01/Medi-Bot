@@ -1,4 +1,4 @@
-# MediBot – AI Powered RAG Medical Chatbot
+# MediBot🩺 – AI Powered RAG Medical Chatbot
 
 ## Project Overview
 
